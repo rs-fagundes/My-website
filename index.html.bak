@@ -82,7 +82,14 @@
           <h1 class="mb-0"> Rafael <span class="text-primary">Fagundes</span>
           </h1>
           <div class="subheading mb-5"> Lisbon, Portugal </div>
-          <p class="lead mb-5">Experienced computer engineer with a decade-long career in multinational IT companies, skilled in digital marketing strategy, business planning, data analysis, and customer relationship management. Proficient in English, Spanish, and Portuguese with a passion for digital marketing strategy, AdTech, and Web3. Proficient in various marketing and programming tools, including Google Marketing Platform, Google Display & Video 360, PowerBI, Visual Studio Code, Python (Pandas, NumPy, Matplotlib, scikit-learn), and SQL.</p>
+          <p class="lead mb-5">Having a background in computer engineering, I see myself as a unique combination of business knowledge and technical skills.<br><br>
+
+I bring together skills in digital marketing strategy, data analysis, AdTech, customer relationship management, and software development. Fluency in English, Spanish, and Portuguese allows me to connect across different cultures.<br><br>
+
+I'm really passionate about transforming data into marketing insights, and I'm skilled in tools like Google Marketing Platform, Python, PowerBI, and more.<br><br>
+
+At present, I'm working as the Cookieless Media Strategy Senior Advisor at Dell Technologies. I'm leading the way in setting measurement standards and understanding market trends in a world where cookies are no longer used.
+</p>
           <!--<div class="social-icons"><a class="social-icon" href="https://www.linkedin.com/in/rsfagundes/"><i class="fab fa-linkedin-in"></i></a><a class="social-icon" href="https://github.com/0xrsfagundes"><i class="fab fa-github"></i></a><a class="social-icon" href="https://twitter.com/rsfagundes_"><i class="fab fa-twitter"></i></a><a class="social-icon" href="#!"><i class="fab fa-facebook-f"></i></a></div>-->
           <div class="social-icons">
             <a class="btn btn-outline-primary" role="button" href="https://www.linkedin.com/in/rsfagundes/" target="_blank">
@@ -97,7 +104,6 @@
             <a class="btn btn-outline-primary" role="button" href="https://www.credly.com/users/rsfagundes/badges" target="_blank">
               <i class="bi bi-patch-check"></i>
             </a>
-
             <a class="btn btn-outline-primary" role="button" href="https://lenster.xyz/u/rsfagundes" target="_blank">
               <i class="bi bi-flower3"></i>
             </a>
@@ -119,7 +125,14 @@
             <div class="flex-grow-1">
               <h3 class="mb-0">Cookieless Media Strategy Senior Advisor</h3>
               <div class="subheading mb-3">Dell Technologies</div>
-              <p>In charge of developing media strategies in a cookieless world. Specializes in defining new measurement standards, analyzing market trends, assessing partner capabilities, and creating a measurement framework.</p>
+              <ul>
+			  
+<li>Developed media strategies in a cookieless world, defining new measurement standards, analyzing market trends, assessing partner capabilities, and creating a measurement framework.</li>
+<li>Defined new measurement standards for accurate media campaign evaluation in a cookieless world.</li>
+<li>Analyzed market trends to enhance campaign performance.</li>
+<li>Assessed partner capabilities for improved collaboration and results.</li>
+<li>Developed a new measurement framework for cookieless media campaigns.</li>
+</ul>
             </div>
             <div class="flex-shrink-0">
               <span class="text-primary">Feb 2023 - Present</span>
@@ -129,7 +142,10 @@
             <div class="flex-grow-1">
               <h3 class="mb-0">Web3 Strategy Senior Advisor</h3>
               <div class="subheading mb-3">Dell Technologies</div>
-              <p>As a NextGen Activation Platform Developer, I developed new technologies and performed business analysis for POCs. Key accomplishments include finalizing a successful Brave Browser POC, creating an internal Web3 community, and pitching use cases for Web3 for Sustainability.As a NextGen Activation Platform Developer, I developed new technologies and performed business analysis for POCs. Key accomplishments include finalizing a successful Brave Browser POC, creating an internal Web3 community, and pitching use cases for Web3 for Sustainability.</p>
+              <ul>
+			  <li>Developed new technologies and performed business analysis for POCs, including a successful Brave Browser POC.</li>
+<li>Created an internal Web3 community and pitched use cases for Web3 for Sustainability.</li>
+			  </ul>
             </div>
             <div class="flex-shrink-0">
               <span class="text-primary">Mar 2022 - Feb 2023</span>
@@ -139,7 +155,13 @@
             <div class="flex-grow-1">
               <h3 class="mb-0">Digital Marketing Strategist</h3>
               <div class="subheading mb-3">Dell Technologies</div>
-              <p>As the Latam Digital Marketing B2B lead, I developed and improved the omnichannel customer journey. Collaborated with global and regional teams to implement multi-vehicle campaigns (Paid Social Media, Email, Content Syndication, etc.) and executed the Account Based Marketing strategy, resulting in significant growth. Represented Latam in global forums, providing insights and achieving notable awards and milestones.</p>
+              <ul>
+			  <li>Led Latam Digital Marketing B2B, improving omnichannel customer journey, implementing multi-vehicle campaigns, and executing Account Based Marketing strategy.</li>
+<li>Achieved FY22Q2 Game Changer award for successful 6sense implementation.</li>
+<li>Drove remarkable YoY growth in Sales Ready Leads and Pipeline from Paid Social Media.</li>
+<li>Led email marketing performance at Dell worldwide in FY21H2.</li>
+			  
+			  </ul>
             </div>
             <div class="flex-shrink-0">
               <span class="text-primary">Mar 2019 - Feb 2022</span>
@@ -190,67 +212,123 @@
 		   
           <div class="subheading mb-3">Platforms & Tools</div>
           <ul class="fa-ul mb-0">
-            <li>
-              <span class="fa-li">
-                <i class="fas fa-check"></i>
-              </span> Python (Pandas, NumPy, Matplotlib, scikit-learn, and more)
-            </li>
-            <li>
-              <span class="fa-li">
-                <i class="fas fa-check"></i>
-              </span> Jupyter Notebook
-            </li>
-            <li>
-              <span class="fa-li">
-                <i class="fas fa-check"></i>
-              </span> SQL language
-            </li>
-            <li>
-              <span class="fa-li">
-                <i class="fas fa-check"></i>
-              </span> Visual Studio Code
-            </li>
-            <li>
-              <span class="fa-li">
-                <i class="fas fa-check"></i>
-              </span> PowerBI
-            </li>
-            <li>
-              <span class="fa-li">
-                <i class="fas fa-check"></i>
-              </span> Google Marketing Platform
-            </li>
-            <li>
-              <span class="fa-li">
-                <i class="fas fa-check"></i>
-              </span> ActionIQ
-            </li>
-            <li>
-              <span class="fa-li">
-                <i class="fas fa-check"></i>
-              </span> The Trade Desk
-            </li>
-            <li>
-              <span class="fa-li">
-                <i class="fas fa-check"></i>
-              </span> LiveRamp
-            </li>
-            <li>
-              <span class="fa-li">
-                <i class="fas fa-check"></i>
-              </span> Neustar
-            </li>
-            <li>
-              <span class="fa-li">
-                <i class="fas fa-check"></i>
-              </span> Javascript
-            </li>
-            <li>
-              <span class="fa-li">
-                <i class="fas fa-check"></i>
-              </span> C#
-            </li>
-          </ul>
+  <li>
+    <span class="fa-li">
+      <i class="fas fa-check"></i>
+    </span> AdTech
+  </li>
+  <li>
+    <span class="fa-li">
+      <i class="fas fa-check"></i>
+    </span> A/B Testing
+  </li>
+  <li>
+    <span class="fa-li">
+      <i class="fas fa-check"></i>
+    </span> Business Intelligence
+  </li>
+  <li>
+    <span class="fa-li">
+      <i class="fas fa-check"></i>
+    </span> Conversion Rate Optimization
+  </li>
+  <li>
+    <span class="fa-li">
+      <i class="fas fa-check"></i>
+    </span> CRM
+  </li>
+  <li>
+    <span class="fa-li">
+      <i class="fas fa-check"></i>
+    </span> Data Analysis
+  </li>
+  <li>
+    <span class="fa-li">
+      <i class="fas fa-check"></i>
+    </span> Data Visualization
+  </li>
+  <li>
+    <span class="fa-li">
+      <i class="fas fa-check"></i>
+    </span> Digital Marketing Strategist
+  </li>
+  <li>
+    <span class="fa-li">
+      <i class="fas fa-check"></i>
+    </span> Email Marketing
+  </li>
+  <li>
+    <span class="fa-li">
+      <i class="fas fa-check"></i>
+    </span> Google Analytics
+  </li>
+  <li>
+    <span class="fa-li">
+      <i class="fas fa-check"></i>
+    </span> Google Display & Video 360
+  </li>
+  <li>
+    <span class="fa-li">
+      <i class="fas fa-check"></i>
+    </span> Google Marketing Platform
+  </li>
+  <li>
+    <span class="fa-li">
+      <i class="fas fa-check"></i>
+    </span> Market Research
+  </li>
+  <li>
+    <span class="fa-li">
+      <i class="fas fa-check"></i>
+    </span> Marketing Automation
+  </li>
+  <li>
+    <span class="fa-li">
+      <i class="fas fa-check"></i>
+    </span> Paid Media Campaigns
+  </li>
+  <li>
+    <span class="fa-li">
+      <i class="fas fa-check"></i>
+    </span> PowerBI
+  </li>
+  <li>
+    <span class="fa-li">
+      <i class="fas fa-check"></i>
+    </span> Python (Pandas, NumPy, Matplotlib, scikit-learn, and more)
+  </li>
+  <li>
+    <span class="fa-li">
+      <i class="fas fa-check"></i>
+    </span> SEO
+  </li>
+  <li>
+    <span class="fa-li">
+      <i class="fas fa-check"></i>
+    </span> Social Media Advertising
+  </li>
+  <li>
+    <span class="fa-li">
+      <i class="fas fa-check"></i>
+    </span> SQL
+  </li>
+  <li>
+    <span class="fa-li">
+      <i class="fas fa-check"></i>
+    </span> Visual Studio Code
+  </li>
+  <li>
+    <span class="fa-li">
+      <i class="fas fa-check"></i>
+    </span> Web Analytics
+  </li>
+  <li>
+    <span class="fa-li">
+      <i class="fas fa-check"></i>
+    </span> Web Development
+  </li>
+</ul>
+
         </div>
       </section>
       <hr class="m-0" />
