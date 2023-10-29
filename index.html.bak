@@ -95,7 +95,7 @@
                   <a class="btn btn-outline-primary" role="button" href="https://github.com/0xrsfagundes" target="_blank">
                   <i class="bi bi-github"></i>
                   </a>
-                  <a class="btn btn-outline-primary" role="button" href="https://www.medium.com/rsfagundes/" target="_blank">
+                  <a class="btn btn-outline-primary" role="button" href="https://rsfagundes.medium.com/" target="_blank">
                   <i class="bi bi-medium"></i>
                   </a>
                   <a class="btn btn-outline-primary" role="button" href="https://www.credly.com/users/rsfagundes/badges" target="_blank">
@@ -115,50 +115,136 @@
          <section class="resume-section" id="experience">
             <div class="resume-section-content">
                <h2 class="mb-5">Experience</h2>
-               <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-                  <div class="flex-grow-1">
-                     <h3 class="mb-0">Cookieless Media Strategy Senior Advisor</h3>
-                     <div class="subheading mb-3">Dell Technologies</div>
-                     <ul>
-                        <li>Developed media strategies in a cookieless world, defining new measurement standards, analyzing market trends, assessing partner capabilities, and creating a measurement framework.</li>
-                        <li>Defined new measurement standards for accurate media campaign evaluation in a cookieless world.</li>
-                        <li>Analyzed market trends to enhance campaign performance.</li>
-                        <li>Assessed partner capabilities for improved collaboration and results.</li>
-                        <li>Developed a new measurement framework for cookieless media campaigns.</li>
-                     </ul>
-                  </div>
-                  <div class="flex-shrink-0">
-                     <span class="text-primary">Feb 2023 - Present</span>
-                  </div>
-               </div>
-               <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-                  <div class="flex-grow-1">
-                     <h3 class="mb-0">Web3 Strategy Senior Advisor</h3>
-                     <div class="subheading mb-3">Dell Technologies</div>
-                     <ul>
-                        <li>Developed new technologies and performed business analysis for POCs, including a successful Brave Browser POC.</li>
-                        <li>Created an internal Web3 community and pitched use cases for Web3 for Sustainability.</li>
-                     </ul>
-                  </div>
-                  <div class="flex-shrink-0">
-                     <span class="text-primary">Mar 2022 - Feb 2023</span>
-                  </div>
-               </div>
-               <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-                  <div class="flex-grow-1">
-                     <h3 class="mb-0">Digital Marketing Strategist</h3>
-                     <div class="subheading mb-3">Dell Technologies</div>
-                     <ul>
-                        <li>Led Latam Digital Marketing B2B, improving omnichannel customer journey, implementing multi-vehicle campaigns, and executing Account Based Marketing strategy.</li>
-                        <li>Achieved FY22Q2 Game Changer award for successful 6sense implementation.</li>
-                        <li>Drove remarkable YoY growth in Sales Ready Leads and Pipeline from Paid Social Media.</li>
-                        <li>Led email marketing performance at Dell worldwide in FY21H2.</li>
-                     </ul>
-                  </div>
-                  <div class="flex-shrink-0">
-                     <span class="text-primary">Mar 2019 - Feb 2022</span>
-                  </div>
-               </div>
+<div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+   <div class="flex-grow-1">
+      <h3 class="mb-0">Global AdTech Senior Advisor</h3>
+      <div class="subheading mb-3">Dell Technologies</div>
+      <ul>
+         <li>In a cookieless digital landscape, I provided support for the creation of media strategies by defining innovative measurement standards, analyzing market trends, evaluating partner capabilities, leading an initiative to decrease reliance on third-party data, and developing a robust measurement framework, utilizing tools like SQL, Python, and PowerBi for data analysis and insights.</li>
+      </ul>
+   </div>
+   <div class="flex-shrink-0">
+      <span class="text-primary">Feb 2023 - Present</span>
+   </div>
+</div>
+
+<div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+   <div class="flex-grow-1">
+      <h3 class="mb-0">Digital Marketing Senior Advisor</h3>
+      <div class="subheading mb-3">Dell Technologies</div>
+      <ul>
+         <li>Conducted business analysis for successful proof of concepts such as Brave Browser and the integration of innovative technologies into digital marketing, all while establishing an internal Web3 community and advocating for Web3's sustainability use cases.</li>
+      </ul>
+   </div>
+   <div class="flex-shrink-0">
+      <span class="text-primary">Mar 2022 - Feb 2023</span>
+   </div>
+</div>
+
+<div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+   <div class="flex-grow-1">
+      <h3 class="mb-0">Digital Marketing Strategist</h3>
+      <div class="subheading mb-3">Dell Technologies</div>
+      <ul>
+         <li>Contributed to Latin America's B2B digital marketing efforts by optimizing the omnichannel customer journey, implementing multi-vehicle campaigns, and executing an Account-Based Marketing strategy, which resulted in significant achievements, including a 25% growth in Sales Ready Leads and a 30% increase in Pipeline from Paid Social Media. These accomplishments led to the FY22Q2 Game Changer award for the successful implementation of 6sense and leadership in email marketing performance at Dell worldwide during FY21H2.</li>
+      </ul>
+   </div>
+   <div class="flex-shrink-0">
+      <span class="text-primary">Sep 2018 - Feb 2022</span>
+   </div>
+</div>
+
+<div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+   <div class="flex-grow-1">
+      <h3 class="mb-0">Digital Marketing Manager</h3>
+      <div class="subheading mb-3">ABCDIN</div>
+      <ul>
+         <li>Led digital strategy and customer segmentation efforts for a leading Chilean retailer, improved email deliverability and engagement with notable open and click rates, achieving a 102% increase in email revenue, and implemented a personalized product recommendation engine that boosted average order value by 25% and increased customer retention by 15%.</li>
+      </ul>
+   </div>
+   <div class="flex-shrink-0">
+      <span class="text-primary">Jan 2017 - Aug 2018</span>
+   </div>
+</div>
+
+<div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+   <div class="flex-grow-1">
+      <h3 class="mb-0">Digital Marketing Strategist</h3>
+      <div class="subheading mb-3">Dell Technologies</div>
+      <ul>
+         <li>Led the B2B lead generation strategy across online and offline channels in Latin America, overseeing email marketing, paid social, webinars, and in-person events, while managing a telemarketing team and achieving a 42% quarter-over-quarter increase in qualified leads (SRL) that contributed to a significant 120% growth in incremental revenue.</li>
+      </ul>
+   </div>
+   <div class="flex-shrink-0">
+      <span class="text-primary">Nov 2013 - Dec 2016</span>
+   </div>
+</div>
+
+<div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+   <div class="flex-grow-1">
+      <h3 class="mb-0">Senior Data Analyst</h3>
+      <div class="subheading mb-3">Dell Technologies</div>
+      <ul>
+         <li>Played a pivotal role in go-to-market and CRM strategy for Consumer & Small Business in the United States and Canada, leveraging Python and Teradata to create Customer Segmentation Models and profiles for personalized marketing, and developed Tableau CRM KPI dashboards to monitor progress and performance shared with stakeholders.</li>
+      </ul>
+   </div>
+   <div class="flex-shrink-0">
+      <span class="text-primary">May 2012 - Oct 2013</span>
+   </div>
+</div>
+
+<div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+   <div class="flex-grow-1">
+      <h3 class="mb-0">Marketing Data Analyst</h3>
+      <div class="subheading mb-3">Dell Technologies</div>
+      <ul>
+         <li>Analyzed and developed data-driven sales and marketing insights for the Latin American Consumer and Small Business segments, relying on Python, MSSQL, and Tableau as my primary tools, while also developing a customer data collection tool, migrating reports to an SQL database, and establishing a self-service reporting system, which improved data quality and allowed me more time to focus on in-depth marketing data analysis, all shared with stakeholders on a regular basis.</li>
+      </ul>
+   </div>
+   <div class="flex-shrink-0">
+      <span class="text-primary">Apr 2011 - Apr 2012</span>
+   </div>
+</div>
+
+<div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+   <div class="flex-grow-1">
+      <h3 class="mb-0">Senior Software Developer</h3>
+      <div class="subheading mb-3">Samsung Electronics</div>
+      <ul>
+         <li>Built a marketing analysis platform using .Net, MSSQL, and SSIS that became the central tool for monitoring sales and marketing in Brazil.</li>
+      </ul>
+   </div>
+   <div class="flex-shrink-0">
+      <span class="text-primary">Oct 2010 - Mar 2011</span>
+   </div>
+</div>
+
+<div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+   <div class="flex-grow-1">
+      <h3 class="mb-0">Senior Software Developer</h3>
+      <div class="subheading mb-3">HP</div>
+      <ul>
+         <li>Developed software and databases for various industries, using .Net, MSSQL, and SSIS as my key tools.</li>
+      </ul>
+   </div>
+   <div class="flex-shrink-0">
+      <span class="text-primary">Apr 2007 - Sep 2010</span>
+   </div>
+</div>
+
+<div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+   <div class="flex-grow-1">
+      <h3 class="mb-0">Software Developer</h3>
+      <div class="subheading mb-3">eCorp Tecnologia e Desenvolvimento</div>
+      <ul>
+         <li>Developed software and databases using .Net, MSSQL, and SSIS for projects including retail data analysis, online banking, and management systems.</li>
+      </ul>
+   </div>
+   <div class="flex-shrink-0">
+      <span class="text-primary">May 2005 - Jun 2006</span>
+   </div>
+</div>
+
             </div>
          </section>
          <hr class="m-0" />
@@ -202,123 +288,7 @@
                </ul>
                <br/>
                <div class="subheading mb-3">Platforms & Tools</div>
-               <ul class="fa-ul mb-0">
-                  <li>
-                     <span class="fa-li">
-                     <i class="fas fa-check"></i>
-                     </span> AdTech
-                  </li>
-                  <li>
-                     <span class="fa-li">
-                     <i class="fas fa-check"></i>
-                     </span> A/B Testing
-                  </li>
-                  <li>
-                     <span class="fa-li">
-                     <i class="fas fa-check"></i>
-                     </span> Business Intelligence
-                  </li>
-                  <li>
-                     <span class="fa-li">
-                     <i class="fas fa-check"></i>
-                     </span> Conversion Rate Optimization
-                  </li>
-                  <li>
-                     <span class="fa-li">
-                     <i class="fas fa-check"></i>
-                     </span> CRM
-                  </li>
-                  <li>
-                     <span class="fa-li">
-                     <i class="fas fa-check"></i>
-                     </span> Data Analysis
-                  </li>
-                  <li>
-                     <span class="fa-li">
-                     <i class="fas fa-check"></i>
-                     </span> Data Visualization
-                  </li>
-                  <li>
-                     <span class="fa-li">
-                     <i class="fas fa-check"></i>
-                     </span> Digital Marketing Strategist
-                  </li>
-                  <li>
-                     <span class="fa-li">
-                     <i class="fas fa-check"></i>
-                     </span> Email Marketing
-                  </li>
-                  <li>
-                     <span class="fa-li">
-                     <i class="fas fa-check"></i>
-                     </span> Google Analytics
-                  </li>
-                  <li>
-                     <span class="fa-li">
-                     <i class="fas fa-check"></i>
-                     </span> Google Display & Video 360
-                  </li>
-                  <li>
-                     <span class="fa-li">
-                     <i class="fas fa-check"></i>
-                     </span> Google Marketing Platform
-                  </li>
-                  <li>
-                     <span class="fa-li">
-                     <i class="fas fa-check"></i>
-                     </span> Market Research
-                  </li>
-                  <li>
-                     <span class="fa-li">
-                     <i class="fas fa-check"></i>
-                     </span> Marketing Automation
-                  </li>
-                  <li>
-                     <span class="fa-li">
-                     <i class="fas fa-check"></i>
-                     </span> Paid Media Campaigns
-                  </li>
-                  <li>
-                     <span class="fa-li">
-                     <i class="fas fa-check"></i>
-                     </span> PowerBI
-                  </li>
-                  <li>
-                     <span class="fa-li">
-                     <i class="fas fa-check"></i>
-                     </span> Python (Pandas, NumPy, Matplotlib, scikit-learn, and more)
-                  </li>
-                  <li>
-                     <span class="fa-li">
-                     <i class="fas fa-check"></i>
-                     </span> SEO
-                  </li>
-                  <li>
-                     <span class="fa-li">
-                     <i class="fas fa-check"></i>
-                     </span> Social Media Advertising
-                  </li>
-                  <li>
-                     <span class="fa-li">
-                     <i class="fas fa-check"></i>
-                     </span> SQL
-                  </li>
-                  <li>
-                     <span class="fa-li">
-                     <i class="fas fa-check"></i>
-                     </span> Visual Studio Code
-                  </li>
-                  <li>
-                     <span class="fa-li">
-                     <i class="fas fa-check"></i>
-                     </span> Web Analytics
-                  </li>
-                  <li>
-                     <span class="fa-li">
-                     <i class="fas fa-check"></i>
-                     </span> Web Development
-                  </li>
-               </ul>
+               AdTech | A/B Testing | Business Intelligence | Conversion Rate Optimization | CRM | Data Analysis | Data Visualization | Digital Marketing Strategist | Email Marketing | Google Analytics | Google Display & Video 360 | Google Marketing Platform | Market Research | Marketing Automation | Paid Media Campaigns | PowerBI | Python (Pandas, NumPy, Matplotlib, scikit-learn, and more) | SEO | Social Media Advertising | SQL | Visual Studio Code | Web Analytics | Web Development
             </div>
          </section>
          <hr class="m-0" />
@@ -361,21 +331,54 @@
             <div class="resume-section-content">
                <h2 class="mb-5">Awards</h2>
                <ul class="fa-ul mb-0">
-                  <li>
-                     <span class="fa-li">
-                     <i class="fas fa-trophy text-warning"></i>
-                     </span> FY22 Dell Technologies Game Changer Award - Aug 2021
-                  </li>
-                  <li>
-                     <span class="fa-li">
-                     <i class="fas fa-trophy text-warning"></i>
-                     </span> FY17 Dell Champion Award - Mar 2016
-                  </li>
-                  <li>
-                     <span class="fa-li">
-                     <i class="fas fa-trophy text-warning"></i>
-                     </span> FY12 Dell Collaboration Award - May 2011
-                  </li>
+                      <li>
+        <span class="fa-li">
+            <i class="fas fa-trophy text-warning"></i>
+        </span>
+        <strong>Dell Award: Excellence in Innovation Award (Sep 2023):</strong> Recognized for exceptional dedication and surpassing expectations in the Data-Driven Analytics session for the 3rd party data to 1st party data Audience Strategy.<p></p>
+    </li>
+    <li>
+        <span class="fa-li">
+            <i class="fas fa-trophy text-warning"></i>
+        </span>
+        <strong>Dell Award: ActionIQ Readiness (Mar 2023):</strong> Acknowledged for successfully transitioning to ActionIQ due to Salesforce DMP deprecation, involving audits, automation, naming taxonomy, use cases, and playbooks.<p></p>
+    </li>
+    <li>
+        <span class="fa-li">
+            <i class="fas fa-trophy text-warning"></i>
+        </span>
+        <strong>Dell Award: Distinguished Readiness Team Excellence Award (Dec 2022):</strong> Commended for a prompt and thorough audit of the Salesforce audience, contributing to a seamless transition.<p></p>
+    </li>
+    <li>
+        <span class="fa-li">
+            <i class="fas fa-trophy text-warning"></i>
+        </span>
+        <strong>Dell Award: CX Connect Support (Dec 2021):</strong> Received the Inspire Award for exceptional support in orchestrating CX Connect journeys within LATAM.<p></p>
+    </li>
+    <li>
+        <span class="fa-li">
+            <i class="fas fa-trophy text-warning"></i>
+        </span>
+        <strong>Dell Award: Innovation Program (Oct 2021):</strong> Recognized for showcasing international program innovation as a best practice.<p></p>
+    </li>
+    <li>
+        <span class="fa-li">
+            <i class="fas fa-trophy text-warning"></i>
+        </span>
+        <strong>Dell Award: FY22Q2 Game Changer (Jul 2021):</strong> Played a pivotal role in significantly improving LinkedIn campaign results and increasing engagement and leads in LATAM.<p></p>
+    </li>
+    <li>
+        <span class="fa-li">
+            <i class="fas fa-trophy text-warning"></i>
+        </span>
+        <strong>Dell Award: Customer Journey 2.0 (Sep 2019):</strong> Acknowledged for pushing the bar of the Latam customer journey and showing innovation in managing the project and relationships.<p></p>
+    </li>
+    <li>
+        <span class="fa-li">
+            <i class="fas fa-trophy text-warning"></i>
+        </span>
+        <strong>Dell Award: Simplified Solutions (Sep 2019):</strong> Recognized for going beyond the scope of work to simplify social media forms and finding solutions that saved time and streamlined processes.
+    </li>
                </ul>
             </div>
          </section>
