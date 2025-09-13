@@ -10970,3 +10970,103 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+
+
+
+/* ================================
+   Brittany-style theme (cores)
+   ================================ */
+:root {
+  /* Paleta base (BC v4) */
+  --navy: #0a192f;
+  --light-navy: #112240;
+  --lightest-navy: #233554;
+  --slate: #8892b0;
+  --light-slate: #a8b2d1;
+  --lightest-slate: #ccd6f6;
+  --white: #e6f1ff;
+  --accent: #64ffda;
+  --accent-tint: rgba(100, 255, 218, 0.1);
+
+  /* Mapeando para tokens do Bootstrap 5 */
+  --bs-body-bg: var(--navy);
+  --bs-body-color: var(--slate);
+  --bs-heading-color: var(--lightest-slate);
+  --bs-border-color: var(--light-navy);
+  --bs-primary: var(--accent);
+  --bs-link-color: var(--accent);
+  --bs-link-hover-color: var(--accent);
+}
+
+/* ================================
+   Base / Tipografia / Links
+   ================================ */
+html, body { background: var(--navy); color: var(--slate); }
+h1, h2, h3, h4, h5, h6 { color: var(--lightest-slate); }
+p, li { color: var(--slate); }
+.lead { color: var(--light-slate); }
+a { color: var(--accent); text-decoration: none; }
+a:hover, a:focus { color: var(--accent); text-decoration: none; filter: brightness(1.15); }
+::selection { background: var(--accent-tint); color: var(--white); }
+
+/* Linhas divisórias */
+hr { border-top: 1px solid var(--light-navy); opacity: 1; }
+
+/* ================================
+   Navbar lateral / header
+   ================================ */
+#sideNav,
+.navbar.bg-primary { /* mantém sua classe atual */
+  background: var(--light-navy) !important;
+  border-right: 1px solid var(--lightest-navy);
+}
+.navbar-dark .navbar-nav .nav-link { color: var(--slate); }
+.navbar-dark .navbar-nav .nav-link:hover,
+.navbar-dark .navbar-nav .nav-link:focus,
+.navbar-dark .navbar-nav .nav-link.active {
+  color: var(--accent);
+}
+
+/* ================================
+   Seções / cards
+   ================================ */
+.resume-section { background: transparent; }
+.resume-section + hr { border-color: var(--light-navy); }
+
+/* ================================
+   Botões (aproveitando seu .btn-outline-primary)
+   ================================ */
+.btn-primary {
+  background: transparent; color: var(--accent);
+  border: 1px solid var(--accent);
+}
+.btn-primary:hover, .btn-primary:focus {
+  background: var(--accent-tint); color: var(--accent); border-color: var(--accent);
+}
+.btn-outline-primary {
+  color: var(--accent); border-color: var(--accent);
+}
+.btn-outline-primary:hover, .btn-outline-primary:focus {
+  background: var(--accent-tint); color: var(--accent);
+}
+
+/* ================================
+   Utilitários já presentes no HTML
+   ================================ */
+.text-primary { color: var(--accent) !important; }
+.bg-primary { background-color: var(--light-navy) !important; }
+
+/* ================================
+   Ícones sociais (seu bloco .social-icons)
+   ================================ */
+.social-icons .btn { border-color: var(--accent); color: var(--accent); }
+.social-icons .btn:hover { background: var(--accent-tint); }
+
+/* ================================
+   Extras (opcional, mas dá o “toque” do tema)
+   ================================ */
+.img-profile {
+  box-shadow: 0 20px 30px -15px rgba(2,12,27,.7);
+  border: 2px solid var(--light-navy);
+}
