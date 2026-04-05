@@ -95,8 +95,7 @@
       { "@type": "EducationalOccupationalCredential", "name": "Applied Data Science with Python – Level 2", "credentialCategory": "Certificate", "dateCreated": "2023-05-01", "recognizedBy": { "@type": "Organization", "name": "IBM" } },
       { "@type": "EducationalOccupationalCredential", "name": "Data Visualization Using Python", "credentialCategory": "Certificate", "dateCreated": "2023-04-30", "recognizedBy": { "@type": "Organization", "name": "IBM" } },
       { "@type": "EducationalOccupationalCredential", "name": "Data Analysis Using Python", "credentialCategory": "Certificate", "dateCreated": "2023-04-23", "recognizedBy": { "@type": "Organization", "name": "IBM" } },
-      { "@type": "EducationalOccupationalCredential", "name": "Python for Data Science", "credentialCategory": "Certificate", "dateCreated": "2023-04-23", "recognizedBy": { "@type": "Organization", "name": "IBM" } },
-      { "@type": "EducationalOccupationalCredential", "name": "Data Analysis with Python", "credentialCategory": "Certificate", "recognizedBy": { "@type": "Organization", "name": "freeCodeCamp" } }
+      { "@type": "EducationalOccupationalCredential", "name": "Python for Data Science", "credentialCategory": "Certificate", "dateCreated": "2023-04-23", "recognizedBy": { "@type": "Organization", "name": "IBM" } }
     ]
   }
   </script>
@@ -707,10 +706,16 @@
     .cert-icon {
       width: 40px; height: 40px;
       border-radius: 10px;
-      background: rgba(245,200,66,.1);
+      background: rgba(255,255,255,0.07);
       display: flex; align-items: center; justify-content: center;
-      font-size: 19px;
       flex-shrink: 0;
+      overflow: hidden;
+      padding: 7px;
+    }
+    .cert-icon img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
     }
     .cert-name {
       font-size: 14px;
@@ -1266,7 +1271,7 @@
     <h2 class="section-title">Certifications</h2>
     <div class="certs-grid">
       <div class="cert-card fade-in">
-        <div class="cert-icon">☁️</div>
+        <div class="cert-icon"><img src="https://cdn.simpleicons.org/googlecloud/4285F4" alt="Google Cloud" /></div>
         <div>
           <div class="cert-name">Derive Insights from BigQuery Data Skill Badge</div>
           <div class="cert-issuer">Google Cloud</div>
@@ -1274,7 +1279,7 @@
         </div>
       </div>
       <div class="cert-card fade-in">
-        <div class="cert-icon">☁️</div>
+        <div class="cert-icon"><img src="https://cdn.simpleicons.org/googlecloud/4285F4" alt="Google Cloud" /></div>
         <div>
           <div class="cert-name">Get Started with Looker Skill Badge</div>
           <div class="cert-issuer">Google Cloud</div>
@@ -1282,7 +1287,7 @@
         </div>
       </div>
       <div class="cert-card fade-in">
-        <div class="cert-icon">🔬</div>
+        <div class="cert-icon"><img src="https://cdn.simpleicons.org/ibm/1F70C1" alt="IBM" /></div>
         <div>
           <div class="cert-name">Data Science Methodology</div>
           <div class="cert-issuer">IBM / Coursera</div>
@@ -1290,7 +1295,7 @@
         </div>
       </div>
       <div class="cert-card fade-in">
-        <div class="cert-icon">🧭</div>
+        <div class="cert-icon"><img src="https://cdn.simpleicons.org/ibm/1F70C1" alt="IBM" /></div>
         <div>
           <div class="cert-name">Data Science Orientation</div>
           <div class="cert-issuer">IBM / Coursera</div>
@@ -1298,7 +1303,7 @@
         </div>
       </div>
       <div class="cert-card fade-in">
-        <div class="cert-icon">🤖</div>
+        <div class="cert-icon"><img src="https://cdn.simpleicons.org/ibm/1F70C1" alt="IBM" /></div>
         <div>
           <div class="cert-name">Machine Learning with Python – Level 1</div>
           <div class="cert-issuer">IBM</div>
@@ -1306,7 +1311,7 @@
         </div>
       </div>
       <div class="cert-card fade-in">
-        <div class="cert-icon">🔬</div>
+        <div class="cert-icon"><img src="https://cdn.simpleicons.org/ibm/1F70C1" alt="IBM" /></div>
         <div>
           <div class="cert-name">Applied Data Science with Python – Level 2</div>
           <div class="cert-issuer">IBM</div>
@@ -1314,7 +1319,7 @@
         </div>
       </div>
       <div class="cert-card fade-in">
-        <div class="cert-icon">📊</div>
+        <div class="cert-icon"><img src="https://cdn.simpleicons.org/ibm/1F70C1" alt="IBM" /></div>
         <div>
           <div class="cert-name">Data Analysis with Python</div>
           <div class="cert-issuer">IBM</div>
@@ -1322,7 +1327,7 @@
         </div>
       </div>
       <div class="cert-card fade-in">
-        <div class="cert-icon">📈</div>
+        <div class="cert-icon"><img src="https://cdn.simpleicons.org/ibm/1F70C1" alt="IBM" /></div>
         <div>
           <div class="cert-name">Data Visualization with Python</div>
           <div class="cert-issuer">IBM</div>
@@ -1330,18 +1335,10 @@
         </div>
       </div>
       <div class="cert-card fade-in">
-        <div class="cert-icon">🐍</div>
+        <div class="cert-icon"><img src="https://cdn.simpleicons.org/ibm/1F70C1" alt="IBM" /></div>
         <div>
-          <div class="cert-name">Python 101 for Data Science</div>
+          <div class="cert-name">Python for Data Science</div>
           <div class="cert-issuer">IBM</div>
-          <div class="cert-date">Apr 2023</div>
-        </div>
-      </div>
-      <div class="cert-card fade-in">
-        <div class="cert-icon">📉</div>
-        <div>
-          <div class="cert-name">Data Analysis with Python</div>
-          <div class="cert-issuer">freeCodeCamp</div>
           <div class="cert-date">Apr 2023</div>
         </div>
       </div>
