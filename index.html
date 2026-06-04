@@ -99,7 +99,6 @@
     },
     "hasCredential": [
       { "@type": "EducationalOccupationalCredential", "name": "Derive Insights from BigQuery Data Skill Badge", "credentialCategory": "Badge", "dateCreated": "2025-11-15", "recognizedBy": { "@type": "Organization", "name": "Google Cloud" } },
-      { "@type": "EducationalOccupationalCredential", "name": "Get Started with Looker Skill Badge", "credentialCategory": "Badge", "dateCreated": "2025-11-11", "recognizedBy": { "@type": "Organization", "name": "Google Cloud" } },
       { "@type": "EducationalOccupationalCredential", "name": "Data Science Methodology", "credentialCategory": "Certificate", "dateCreated": "2025-01-19", "recognizedBy": { "@type": "Organization", "name": "IBM" } },
       { "@type": "EducationalOccupationalCredential", "name": "Data Science Orientation", "credentialCategory": "Certificate", "dateCreated": "2025-01-15", "recognizedBy": { "@type": "Organization", "name": "IBM" } },
       { "@type": "EducationalOccupationalCredential", "name": "Machine Learning with Python – Level 1", "credentialCategory": "Certificate", "dateCreated": "2023-05-14", "recognizedBy": { "@type": "Organization", "name": "IBM" } },
@@ -281,15 +280,33 @@
       padding-top: 72px;
     }
 
+    .hero-head {
+      display: flex;
+      align-items: center;
+      gap: 28px;
+      margin-bottom: 32px;
+    }
+
     .hero-photo {
-      width: 76px;
-      height: 76px;
+      width: 140px;
+      height: 140px;
       border-radius: 50%;
       object-fit: cover;
       filter: grayscale(100%);
       border: 1px solid var(--line);
-      margin-bottom: 28px;
       display: block;
+      flex-shrink: 0;
+    }
+
+    @media (max-width: 560px) {
+      .hero-head {
+        gap: 18px;
+      }
+
+      .hero-photo {
+        width: 100px;
+        height: 100px;
+      }
     }
 
     .hero-status {
@@ -332,6 +349,33 @@
       color: var(--text-soft);
       max-width: 620px;
       margin-bottom: 40px;
+    }
+
+    .cta {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      margin-top: 36px;
+      font-size: 14px;
+      font-weight: 500;
+      color: var(--bg);
+      background: var(--text);
+      border-radius: 999px;
+      padding: 11px 22px;
+      text-decoration: none;
+      transition: opacity var(--t);
+    }
+
+    .cta:hover {
+      opacity: .85;
+    }
+
+    .cta svg {
+      transition: transform var(--t);
+    }
+
+    .cta:hover svg {
+      transform: translateX(3px);
     }
 
     .meta-row {
@@ -732,11 +776,14 @@
 
     <!-- ABOUT -->
     <section id="about">
-      <img class="hero-photo" src="https://www.rsfagundes.com/assets/img/rafael_fagundes_portrait.jpg"
-        alt="Rafael Fagundes" onerror="this.style.display='none'" />
-      <div class="hero-status">Available for new opportunities</div>
-      <h1 class="hero-name">Rafael Fagundes</h1>
-      <p class="hero-title">Data Analyst &amp; CRM Specialist · 10+ Years of Experience</p>
+      <div class="hero-head">
+        <img class="hero-photo" src="assets/img/rafael_fagundes_avatar.jpg"
+          alt="Rafael Fagundes" onerror="this.style.display='none'" />
+        <div>
+          <h1 class="hero-name">Rafael Fagundes</h1>
+          <p class="hero-title">Data Analyst &amp; CRM Specialist · 10+ Years of Experience</p>
+        </div>
+      </div>
       <p class="hero-bio">
         I turn data into actionable insights that drive business growth. My expertise spans Python, SQL, Power BI, CRM,
         and AdTech — with a strong focus on A/B testing, conversion rate optimization, and cookieless strategies.
@@ -761,6 +808,13 @@
           <div class="meta-label">Analytics · AdTech · Personalization</div>
         </div>
       </div>
+      <a class="cta" href="https://www.linkedin.com/in/rsfagundes/" target="_blank" rel="noopener">
+        Get in touch
+        <svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2"
+          stroke-linecap="round" stroke-linejoin="round">
+          <path d="M5 12h14M13 6l6 6-6 6" />
+        </svg>
+      </a>
     </section>
 
     <!-- EXPERIENCE -->
@@ -1086,13 +1140,6 @@
       <div class="cert fade-in">
         <div>
           <div class="cert-name">Derive Insights from BigQuery Data Skill Badge</div>
-          <div class="cert-issuer">Google Cloud</div>
-        </div>
-        <div class="cert-date">Nov 2025</div>
-      </div>
-      <div class="cert fade-in">
-        <div>
-          <div class="cert-name">Get Started with Looker Skill Badge</div>
           <div class="cert-issuer">Google Cloud</div>
         </div>
         <div class="cert-date">Nov 2025</div>
